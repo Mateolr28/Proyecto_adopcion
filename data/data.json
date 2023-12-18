@@ -1,0 +1,16 @@
+{
+  "Usuarios": [
+    {
+      "name": "Jose Meneses",
+      "email": "josemeneses6@gmail.com",
+      "password": "654321jm",
+      "id": 90
+    },
+    {
+      "id": 2,
+      "name": "Jose Luis",
+      "email": "joseluis02@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
